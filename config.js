@@ -6,6 +6,6 @@
 
 var vars = {
     file : 'index.html',
-    path : 'https://ap-euw-dev-ux-sa-model.scm.azurewebsites.net/wwwroot/3D/tmp/',//path to the index.html
+    path : 'https://ap-euw-dev-ux-sa-model.scm.azurewebsites.net/',//path to the index.html
     theme : 'theasys',
 };
